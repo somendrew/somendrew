@@ -195,7 +195,7 @@ Deep EDA on 4,788 Premier League matches across 20+ seasons. Uncovered patterns 
 
 |🏅 Rank   |📓 Status           |📊 Notebooks      |🌍 Global Standing   |
 |---------|-------------------|-----------------|--------------------|
-|**#1285**|**Notebook Expert**|**10+ Published**|**Top 2% Worldwide**|
+|**#1285**|**Notebook Expert**|**23+ Published**|**Top 2% Worldwide**|
 
 
 > Notebooks cover ML pipelines, deep learning experiments, EDA, and feature engineering — all publicly available on [Kaggle](https://kaggle.com/somendrew).
