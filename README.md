@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somendrew-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somendrew)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert_%231285-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/somendrew)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-somendrew-FFD21E?style=for-the-badge)](https://huggingface.co/somendrew)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1hpDrew-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/somendrew/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-somendrew-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/somendrew/)
 
 </div>
 
