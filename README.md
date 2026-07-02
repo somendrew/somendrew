@@ -8,7 +8,7 @@
 
 <!-- Animated Header Banner -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Somendra%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Fine-tuner&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Somendra%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20LLM%20DataScience&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing Animation -->
 
